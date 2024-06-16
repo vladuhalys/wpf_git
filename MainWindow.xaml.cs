@@ -20,5 +20,15 @@ namespace wpf_git
         {
             InitializeComponent();
         }
+
+        private void GetUser_CLick(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void GetHR_CLick(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
